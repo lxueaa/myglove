@@ -18,18 +18,6 @@ The GLoVe model can be trained with:
 python demo.py
 ```
 
-
-## To Do List
-
-### Recently
-
-- [x] analogy
-- [x] similarity
-- [ ] fit glove to our model
-- [ ] named entity recognition
-- [ ] part of speech tagging
-
-
 ## Preliminary Results
 
 #### 2018/11/04: Glove
