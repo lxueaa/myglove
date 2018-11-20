@@ -28,10 +28,6 @@ python demo.py
 - [ ] fit glove to our model
 - [ ] named entity recognition
 - [ ] part of speech tagging
-- check input pipline: 
-- [x] time consuming on get_batch
-- [x] time comsuming when transfer fx, logx, uid, vid to GPU
-
 
 
 ## Preliminary Results
